@@ -29,7 +29,7 @@ A simple Java console application for performing basic banking operations like a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/bank-account-management.git
+   git clone https://github.com/RoshanSharma7/bank-account-management.git
    ```
 
 2. **Navigate to the project directory**:
