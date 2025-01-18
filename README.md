@@ -89,6 +89,11 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4. Push to the branch: `git push origin feature/YourFeature`.
 5. Open a pull request.
 
+## Contact
+- **LinkedIn**: [Roshan Sharma](https://www.linkedin.com/in/roshan-sharma7)
+- **GitHub**: [RoshanSharma7](https://github.com/RoshanSharma7)
+- **Email**: roshan.amlai96@gmail.com
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
